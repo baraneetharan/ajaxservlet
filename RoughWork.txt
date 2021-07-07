@@ -140,3 +140,7 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
 }
 mvn clean install
 mvn tomcat7:run
+
+https://www.codejava.net/java-ee/jsp/how-to-create-dynamic-drop-down-list-in-jsp-from-database
+https://gist.github.com/justsml/529d0b1ddc5249095ff4b890aad5e801
+https://www.javaguides.net/2019/01/top-java-template-engines.html
